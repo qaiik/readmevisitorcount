@@ -18,3 +18,5 @@ app.get("/", (req,res)=>{
   <text x="65" y="55" class="Rrrrr">Grumpy!</text>
 </svg>`)
 })
+
+app.listen(3000)
