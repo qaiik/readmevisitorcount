@@ -7,5 +7,6 @@ A visitor count for in your readme.
 This is mainly used for github profile config readmes, but can be used for anything else.
 
 It is pretty simple to set up.
-Press the above Run on Replit button.
+Press the above Run on Replit button, and then input the following markdown into your readme.
+[![c](https://readmevisitorcount-1.youreplitusername.repl.co)](https://github.com/qaiik/readmevisitorcount)
 
